@@ -7,7 +7,7 @@
 以下についての概要と設定.
 * Xcode
 * Homebrew
-* Python
+* Python(venv)
 * Git
 * VSCode
 * terminal
